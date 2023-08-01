@@ -1,8 +1,10 @@
+APIs Collection: https://red-robot-162428.postman.co/workspace/Ropstam-test~36b6d29c-323d-4c23-893a-7778ddd0c753/collection/24822869-0189874f-d694-44f4-8375-bfe594955de3?action=share&creator=24822869
+
+Video Walkthrough: https://www.loom.com/share/be51dd3277a54be0bc828623924ed500?sid=53573b1a-a30d-4bc7-bfb7-f9a9d09f3e89
+
 # Client Side
 
 ## Features
-
-Video Walkthrough: https://www.loom.com/share/be51dd3277a54be0bc828623924ed500?sid=53573b1a-a30d-4bc7-bfb7-f9a9d09f3e89
 
 - The client side consists of a user login and signup form.
 - A user can either sign up using their email or just directly sign in by signing a message through metamask.
