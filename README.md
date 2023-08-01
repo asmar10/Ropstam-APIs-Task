@@ -56,8 +56,6 @@ Video Walkthrough: https://www.loom.com/share/be51dd3277a54be0bc828623924ed500?s
 
 ### User Authentication
 
-Video Walkthrough: https://www.loom.com/share/be51dd3277a54be0bc828623924ed500?sid=53573b1a-a30d-4bc7-bfb7-f9a9d09f3e89
-
 - `POST /api/users/signup`: Create a new user account.
 - `POST /api/users/login`: Authenticate and login a user.
 
