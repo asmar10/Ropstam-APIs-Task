@@ -52,7 +52,6 @@ Video Walkthrough: https://www.loom.com/share/be51dd3277a54be0bc828623924ed500?s
 - `DELETE /api/cars/deleteCar/:registrationNo`: Delete a car by its registration number.
 - `DELETE /api/cars/deleteCategory/:category`: Delete cars by category.
 
-##For the users APIs login and signup endpoints are created
 
 ## USER API Endpoints
 
